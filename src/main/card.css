@@ -1,0 +1,26 @@
+.body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .blog {
+    margin: 20px;
+    padding:20px;
+  
+    width:30%;
+    height: 300px;
+    border-radius: 10px;
+    
+  }
+  .card {
+    width:100%;
+    box-sizing:content-box;
+    
+  }
+  .text-con {
+    padding:20px;
+    box-sizing:content-box;
+    font-size:10px;
+  }
+  
